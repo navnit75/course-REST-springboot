@@ -1,6 +1,7 @@
 # springrest
-- First step towards learning the SPRING framework. 
-- In this application I have tried to implement standalone application based on `Course` entity.  
+- First step towards learning the SPRING-BOOT framework. 
+- This project is based on Youtube Video by `Durgesh` [link](https://www.youtube.com/watch?v=sdDDuQuX2cg)
+- In this application I have tried to implement application based on REST api based on `Course` entity.  
 - APIs are provided for this app are 
 
 |Method|API urls|Operation|
