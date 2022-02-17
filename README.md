@@ -1,8 +1,8 @@
-# springrest
-- First step towards learning the SPRING-BOOT framework. 
+# Introduction
+- REST api based application , made with the help of Springboot. 
 - This project is based on Youtube Video by `Durgesh` [link](https://www.youtube.com/watch?v=sdDDuQuX2cg)
-- In this application I have tried to implement application based on REST api based on `Course` entity.  
-- APIs are provided for this app are 
+- REST api is based on entity named `Course`
+- APIs extended are provided below. 
 
 |Method|API urls|Operation|
 |------|--------|---------|
