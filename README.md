@@ -1,6 +1,6 @@
 # Introduction
 - REST api based application , made with the help of Springboot. 
-- This project is based on Youtube Video by `Durgesh` [link](https://www.youtube.com/watch?v=sdDDuQuX2cg)
+- This project is based on [youtube tutorial](https://www.youtube.com/watch?v=sdDDuQuX2cg) by `Durgesh`.
 - REST api is based on entity named `Course`
 - APIs extended are provided below. 
 
