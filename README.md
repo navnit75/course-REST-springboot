@@ -12,4 +12,4 @@
 | PUT  |/courses|Update the Course|
 | DELETE|/courses/{courseId}|Delete the course Id|
 
-- **Note**: These APIs are tested using POSTMAN, to return data in JSON format.
+
