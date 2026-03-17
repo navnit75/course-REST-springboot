@@ -32,6 +32,9 @@ build/
 ### VS Code ###
 .vscode/
 
+### Build outputs ###
+TARGETS/
+
 ## .env ###
 .env.local
 *.env.local
