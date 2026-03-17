@@ -10,3 +10,10 @@
 | POST |/courses|Add new course|
 | PUT  |/courses|Update the Course|
 | DELETE|/courses/{courseId}|Delete the course Id|
+
+# Run Commands
+```bash
+mvn clean && mvn compile
+mvn spring-boot:run
+mvn test
+```
